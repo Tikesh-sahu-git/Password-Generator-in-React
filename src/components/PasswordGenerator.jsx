@@ -167,7 +167,7 @@ const PasswordGenerator = () => {
           <FaShieldAlt className="text-2xl text-white" />
         </div>
         <h1 ref={titleRef} className="text-3xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent mb-2">
-          SecurePass Generator
+          Password Generator
         </h1>
         <p ref={subtitleRef} className="text-gray-400">
           Create strong and secure passwords instantly
